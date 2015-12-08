@@ -1,0 +1,11 @@
+################################################################################
+HOW TO BUILD KERNEL FOR GT-I8262
+
+1. How to Build
+	cd [working dir]
+	./build.sh
+
+2. Output files
+	- Kernel : build/gt-i8262-bin/zImage
+	- module : build/gt-i8262-bin/modules/*.ko
+################################################################################
